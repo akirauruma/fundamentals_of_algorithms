@@ -1,0 +1,10 @@
+array_int[0] = 17; array_double[0] = 4.884405391900203
+array_int[1] = 66; array_double[1] = 8.326316320402805
+array_int[2] = 17; array_double[2] = 1.402869458084327
+array_int[3] = 58; array_double[3] = 7.19573782762169
+array_int[4] = 21; array_double[4] = 9.266456528871307
+array_int[5] = 39; array_double[5] = 7.804798646923478
+array_int[6] = 32; array_double[6] = 9.521450980588732
+array_int[7] = 20; array_double[7] = 3.199154322356003
+array_int[8] = 88; array_double[8] = 7.614642335179404
+array_int[9] = 13; array_double[9] = 7.119442164017888
